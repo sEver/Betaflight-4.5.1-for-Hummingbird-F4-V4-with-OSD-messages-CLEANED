@@ -3,22 +3,22 @@
 Namely, it changes: 
 
 `SEND IT` to
-` READY `
+` ARMED `
 
 `OH SHIT RSSI LOW` to
 `WARNING RSSI LOW`
 
 `BATTERY DYING` to
-`BATT CRITICAL` 
+`BATT CRITICAL`
 
 `DAMN HOT` to
-`CORE HOT` 
+`CORE HOT`
 
 `  DAYUMN` to
 `BATT LOW`
 
-`> SHAME BRO <` to 
-`> TURN OVER <`
+`> SHAME BRO <` to
+`  CRASH FLIP `
 
 The goal of the project is achieved by editing the compiled `.hex` file of the firmware provided by NewBeeDrone company, 
 since complete source was not available. 
