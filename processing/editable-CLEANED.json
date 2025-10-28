@@ -145752,12 +145752,12 @@
   {
     "record_type": 0,
     "address": 30640,
-    "data_ascii": "YAW F\u0000\u0000\u0000> TURN O"
+    "data_ascii": "YAW F\u0000\u0000\u0000  CRASH "
   },
   {
     "record_type": 0,
     "address": 30656,
-    "data_ascii": "VER <\u0000 %c%3d\u0000 --"
+    "data_ascii": "FLIP \u0000 %c%3d\u0000 --"
   },
   {
     "record_type": 0,
