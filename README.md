@@ -27,3 +27,5 @@ The tools used in the process are two python scripts included here in the [/src]
 
 The resulting firmware `.hex` file is tested and confirmed to work, as it was flashed on the drone and flown, 
 confirming the messages are indeed changed. 
+
+## The resulting file is available here: [betaflight_4.5.1_HUMMINGBIRD_F4_V4_CLEANED.hex](https://raw.githubusercontent.com/sEver/Betaflight-4.5.1-for-Hummingbird-F4-V4-with-OSD-messages-CLEANED/refs/heads/main/result/betaflight_4.5.1_HUMMINGBIRD_F4_V4_CLEANED.hex)
