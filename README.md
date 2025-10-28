@@ -1,6 +1,7 @@
 # This project cleans up OSD messages in firmware for NewBeeDrone `Hummingbird F4 V4` TinyWhoop drone
 
 Namely, it changes: 
+
 `SEND IT` to
 ` READY `
 
