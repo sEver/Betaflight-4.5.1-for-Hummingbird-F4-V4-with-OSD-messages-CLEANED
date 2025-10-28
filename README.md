@@ -30,4 +30,4 @@ confirming the messages are indeed changed.
 
 The original firmware was built from a fork of Betaflight 4.5.1
 
-## The resulting file is available here: [betaflight_4.5.1_HUMMINGBIRD_F4_V4_CLEANED.hex](https://raw.githubusercontent.com/sEver/Betaflight-4.5.1-for-Hummingbird-F4-V4-with-OSD-messages-CLEANED/refs/heads/main/result/betaflight_4.5.1_HUMMINGBIRD_F4_V4_CLEANED.hex)
+## The resulting file is available here: [betaflight_4.5.1_HUMMINGBIRD_F4_V4_CLEANED.hex](https://github.com/sEver/Betaflight-for-Hummingbird-F4-V4-with-OSD-messages-CLEANED/releases/download/v4.5.1-CLEANED/betaflight_4.5.1_HUMMINGBIRD_F4_V4_CLEANED.hex)
