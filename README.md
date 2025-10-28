@@ -1,7 +1,7 @@
 # This project cleans up OSD messages in firmware for NewBeeDrone `Hummingbird F4 V4` TinyWhoop drone
 
 Namely, it changes: 
-
+```
 `SEND IT` to
 ` ARMED `
 
@@ -19,7 +19,7 @@ Namely, it changes:
 
 `> SHAME BRO <` to
 `  CRASH FLIP `
-
+```
 The goal of the project is achieved by editing the compiled `.hex` file of the firmware provided by NewBeeDrone company, 
 since complete source was not available. 
 
