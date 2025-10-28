@@ -1,0 +1,19 @@
+Namely, it changes:
+
+`SEND IT` to
+` ARMED `
+
+`OH SHIT RSSI LOW` to
+`WARNING RSSI LOW`
+
+`BATTERY DYING` to
+`BATT CRITICAL`
+
+`DAMN HOT` to
+`CORE HOT`
+
+`  DAYUMN` to
+`BATT LOW`
+
+`> SHAME BRO <` to
+`  CRASH FLIP `
